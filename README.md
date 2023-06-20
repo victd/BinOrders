@@ -9,3 +9,5 @@ Needs also security on the DNS settings of the web server, firewall, web server 
 Block any cross site sql injection capability xss
 Containerized webserver page and db connected back end
 Docusign.  dropdowns in DocuSign seem obsolete
+Safety.  Customer data storage and retention policy
+

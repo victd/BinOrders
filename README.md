@@ -8,6 +8,6 @@ Provision for on-call services as well as other services, repairs, preventative 
 Needs also security on the DNS settings of the web server, firewall, web server port
 Block any cross site sql injection capability xss
 Containerized webserver page and db connected back end
-Docusign.  dropdowns in DocuSign seem obsolete
+Docusign.  dropdowns in DocuSign seem obsolete, envelope usage ok, check license and seat usage
 Safety.  Customer data storage and retention policy
 
